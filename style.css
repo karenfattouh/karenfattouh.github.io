@@ -26,7 +26,11 @@ h2, h3, h4, h5, h6 {
     text-decoration:underline;
     padding: 40px 2% 4% 50px;
 }
-
+.post h2 {
+    background-color: gray;
+    font-family: Arial;
+    padding: 1.5% 0 1.5% 3.5%
+}
 nav a{
     color: #ffffff;
     padding: 20px;
