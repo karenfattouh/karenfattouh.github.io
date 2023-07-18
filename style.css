@@ -37,8 +37,8 @@ h2, h3, h4, h5, h6 {
 nav a{
     color:#0a1172;
     text-align: center;
-    padding: 60px;
     font-family:Arial;
+    font-size:60px;
     text-decoration: none;
 }
 .post{
