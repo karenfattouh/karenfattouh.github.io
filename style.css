@@ -1,9 +1,11 @@
 .about, .treatment {
     background: #fafafa;
     font-family: Arial;
+    text-align: center;
+    font-size:60px;
 }
 body{
-    background-color: rgb(234, 225, 174);
+    background-color: rgb(240, 236, 212);
 }
 p{
     text-align: center;
