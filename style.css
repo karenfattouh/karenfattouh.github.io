@@ -1,6 +1,7 @@
-.about, .treatment {
+.about, .prevention, .signsandsymptoms, .treatment {
     background: #fafafa;
     font-family: Arial;
+    color:#0a1172;
     text-align: center;
     font-size:60px;
 }
