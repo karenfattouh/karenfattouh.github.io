@@ -35,8 +35,9 @@ h2, h3, h4, h5, h6 {
     padding: 1.5% 0 1.5% 3.5%
 }
 nav a{
-    color: #ffffff;
-    padding: 20px;
+    color:#0a1172;
+    text-align: center;
+    padding: 60px;
     font-family:Arial;
     text-decoration: none;
 }
