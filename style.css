@@ -6,7 +6,7 @@
     font-size:60px;
 }
 body{
-    background-color:rgb(238, 224, 114);
+    background-color:rgb(203, 202, 197);
 }
 p{
     text-align: center;
@@ -19,19 +19,19 @@ h1 {text-align: center;
     color:#0a1172;
     font-style:italic;
     text-decoration:underline;
-    background-color:rgb(238, 224, 114);
+    background-color:rgb (203, 202, 197)
     padding: 40px 2% 4% 50px;}
 h2, h3, h4, h5, h6 {
     text-align: center;
     font-size: 40px;
     color:#0a1172;
     font-style:italic;
-    background-color:rgb(238, 224, 114);
+    background-color:rgb (203, 202, 197)
     text-decoration:underline;
     padding: 40px 2% 4% 50px;
 }
 .post h2 {
-    background-color:rgb(238, 224, 114);
+    background-color:rgb (203, 202, 197)
     font-family: Arial;
     padding: 1.5% 0 1.5% 3.5%
 }
