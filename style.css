@@ -40,6 +40,7 @@ nav a{
     font-family:Arial;
     font-size:60px;
     text-decoration: none;
+    padding: 30px;
 }
 .post{
     margin-left:33%;
