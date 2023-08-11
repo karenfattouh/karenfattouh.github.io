@@ -65,11 +65,13 @@ nav a{
     font-size:20px;
     margin:1.5%;
 }
-img.align-center {
-    display: block;
-}
+
 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
    width: 50%;
 }
+
 
 
