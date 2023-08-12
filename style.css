@@ -48,10 +48,12 @@ h2, h3, h4, h5, h6 {
 .nav {
     margin: auto;
 }
-nav a{
+.nav a {
     color:#0a1172;
+    float: none;
     font-family:Arial;
     font-size: 20 px;
+    text-align: center;
     text-decoration: none;
     padding: 20px;
 }
