@@ -52,7 +52,9 @@ h2, h3, h4, h5, h6 {
     font-family: Arial;
     font-size: 20 px;
     text-decoration: none;
-    padding: 20px;
+    padding: 0;
+    text-align: center;
+    margin: 0 auto;
 }
 .post{
     display: flex;
