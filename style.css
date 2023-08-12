@@ -46,8 +46,7 @@ h2, h3, h4, h5, h6 {
     text-align: left;
 }
 .nav {
-    display: flex;
-    align-items: center;
+    margin: auto;
 }
 nav a{
     color:#0a1172;
